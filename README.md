@@ -1,0 +1,1 @@
+„Vier Gewinnt“ ist ein Spiel, bei dem zwei Spieler abwechselnd farbige Steine in ein 6x7 Spielfeld legen. Das Ziel des Spiels ist es, vier Steine in einer Reihe (horizontal, vertikal oder diagonal) zu verbinden. In diesem Projekt wird das Spiel „Vier Gewinnt“ in Java programmiert. Spieler können entweder gegen den Computer oder im Mehrspielermodus spielen.
